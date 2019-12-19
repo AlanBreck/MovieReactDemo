@@ -13,7 +13,7 @@ import "./App.css";
 function App() {
   return (
     <Router>
-      <nav className="navbar navbar-dark bg-dark">
+      <nav className="navbar navbar-dark bg-dark text-center">
         <ul className="navbar-nav">
           <li className="nav-item">
             <NavLink exact to="/" activeClassName="active">
